@@ -11,7 +11,7 @@
 
 <!-- - Frequently I write articles on [GeeksforGeeks](https://www.geeksforgeeks.org/)-->
 
-- Curious about Python, C++, DSA and web development
+- Passionate about Python, C++, DSA and web development
   
 - Level up with a 5-star rating on HackerRank.
   
