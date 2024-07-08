@@ -68,7 +68,7 @@
   </a>
   --> 
 </p>
-
+<!--
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/suchita-gond" target="blank">
@@ -78,6 +78,7 @@
 <a href="https://www.hackerrank.com/@gondsuchitaa03" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@gondsuchitaa03" height="25" width="25" />
 </a>
+-->
 <!--<a href="https://www.codechef.com/users/suchita_20" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="suchita_20" height="30" width="40" />
 </a>-->
