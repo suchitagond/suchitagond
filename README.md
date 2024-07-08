@@ -23,6 +23,7 @@
 
 <!-- - ⚡ Fun fact **I can solve a Rubik's cube in under three minutes! 🎲✨**-->
 
+
 <h3 align="left">Skills</h3>
 <p align="left">
   <h5>Languages</h5>
@@ -73,7 +74,7 @@
 <a href="https://linkedin.com/in/suchita-gond" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suchita-gond" height="25" width="25" />
 </a>
-  
+
 <a href="https://www.hackerrank.com/@gondsuchitaa03" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@gondsuchitaa03" height="25" width="25" />
 </a>
