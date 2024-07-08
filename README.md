@@ -15,12 +15,8 @@
   
 - Level up with a 5-star rating on HackerRank.
   
-- Authored insightful articles for Geeks for Greeks.
-  
 - Currently authoring a research paper on neural networks.
   
-- I served as the president of the CodeStorm Club.
-
 - reach me through **suchitagond2003@gmail.com**
 
 - Currently Seeking Internship or Job Opportunity  [Resume](https://drive.google.com/file/d/1xfAJGr6QM4sPvuu9IzvJGfaVs29VmwyK/view?usp=drivesdk)
