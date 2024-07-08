@@ -15,11 +15,11 @@
   
 - Level up with a 5-star rating on HackerRank.
   
-- Currently authoring a research paper on neural networks.
+- Currently authoring a research paper on Neural Networks.
   
-- reach me through **suchitagond2003@gmail.com**
+- Reach me through **suchitagond2003@gmail.com**
 
-- Currently Seeking Internship or Job Opportunity  [Resume](https://drive.google.com/file/d/1xfAJGr6QM4sPvuu9IzvJGfaVs29VmwyK/view?usp=drivesdk)
+- Currently seeking internship or job opportunity  [Resume](https://drive.google.com/file/d/1xfAJGr6QM4sPvuu9IzvJGfaVs29VmwyK/view?usp=drivesdk)
 
 <!-- - ⚡ Fun fact **I can solve a Rubik's cube in under three minutes! 🎲✨**-->
 
